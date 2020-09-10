@@ -1,3 +1,6 @@
+# hello world
+this is a test commit :)
+
 # KWIC Tutorial
 This is a [Maven](https://maven.apache.org/index.html) project. You need to install Maven first before coding.
 
